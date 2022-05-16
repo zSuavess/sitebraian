@@ -94,4 +94,11 @@ a.active, a:hover {
 	#check:checked ~ ul {
 		left: 0;
 	}
-}
+	}
+
+	footer {
+   	margin-top: 2%;
+   	color: grey;
+   	text-align: center;
+  	font-family: 'Courier New', Courier, monospace;
+	}
