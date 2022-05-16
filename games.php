@@ -21,6 +21,9 @@
 			<li><a href="sobrenos.php">Sobre nós</a></li>
 		</ul>
 	</nav>
-
+	
+	<footer>
+    		Nenhum direito reservado - <?= date("Y") ?>
+	</footer>
 </body>
 </html>
